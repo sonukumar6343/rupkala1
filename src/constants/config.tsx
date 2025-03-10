@@ -1,0 +1,1 @@
+export const server="https://r-backend-0mol.onrender.com"
