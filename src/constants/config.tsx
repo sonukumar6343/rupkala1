@@ -1,1 +1,1 @@
-export const server="https://r-backend-0mol.onrender.com"
+export const server="https://r-server1.onrender.com"
